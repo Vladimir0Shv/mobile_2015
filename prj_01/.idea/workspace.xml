@@ -48,107 +48,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="app: com.example.myapp" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c1db702-9498-4958-8694-c7119a275440" name="Default" comment="prj_1 level 3">
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\Calc.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\inspectionProfiles\Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\inspectionProfiles\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\.idea\workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\Calc.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\ant.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\build.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\gen\com\example\Calc\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\gen\com\example\Calc\Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\gen\com\example\Calc\R.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\local.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\Calc.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\Calc.unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$10.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$11.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$12.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$13.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$14.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$15.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$16.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity$9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\MyActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\out\production\Calc\com\example\Calc\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\proguard-project.txt" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\project.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\drawable-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\drawable-ldpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\drawable-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\layout\main.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\calc\src\com\example\Calc\MyActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\gen\com\example\Calc\BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\gen\com\example\Calc\Manifest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\gen\com\example\Calc\R.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\Calc.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\Calc.unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$10.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$11.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$12.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$13.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$14.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$15.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$16.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity$9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\MyActivity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\out\production\Calc\com\example\Calc\R.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\2\2\mobile_2015\prj_01\src\com\example\Calc\MyActivity.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ant.properties" afterPath="$PROJECT_DIR$/ant.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.xml" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="8c1db702-9498-4958-8694-c7119a275440" name="Default" comment="prj_1 level 3" />
     <ignored path="myapp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -170,10 +70,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainFragment.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainFragment.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/myapp/MainFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.44347826">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -192,7 +92,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="activity_display_message.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="activity_display_message.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/activity_display_message.xml">
           <provider selected="true" editor-type-id="android-designer">
             <state />
@@ -677,8 +577,8 @@
     <option name="totallyTimeSpent" value="32542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1103,53 +1003,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/myapp/MainFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/myapp/DisplayMessageActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment3.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment1.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment5.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment4.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+          <caret line="131" column="51" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -1165,13 +1025,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment1.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment4.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
       </provider>
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="131" column="51" selection-start-line="131" selection-start-column="51" selection-end-line="131" selection-end-column="51" />
+          <caret line="81" column="15" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment5.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="15" selection-start-line="99" selection-start-column="15" selection-end-line="99" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/fragment3.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1206,6 +1088,24 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myapp/DisplayMessageActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/myapp/MainFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44347826">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
